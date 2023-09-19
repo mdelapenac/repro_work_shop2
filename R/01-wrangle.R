@@ -21,10 +21,10 @@ print("hello")
 
 library(usethis)
 usethis::use_git()
-
 git_sitrep()
 git_vaccinate()
-print(hello)
+create_github_token()
+gitcreds::gitcreds_set()
 
 
 
