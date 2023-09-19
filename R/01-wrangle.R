@@ -24,6 +24,7 @@ usethis::use_git()
 
 git_sitrep()
 git_vaccinate()
+print(hello)
 
 
 
