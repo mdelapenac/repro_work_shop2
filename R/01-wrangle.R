@@ -45,3 +45,5 @@ biscoe_dat_means<- biscoe_dat |>
 biscoe_dat_imperial<- biscoe_dat_means |>
   mutate(across(ends_with("mm"),~.*0.03937008, .names="{.col}_in"))
 
+my_function<-function(data_url = "https://github.com/cct-datascience/repro-data-sci/raw/r-lessons/lessons/7-intermediate-r-1/lesson-data/Torgersen.csv")
+             island_dat<-
