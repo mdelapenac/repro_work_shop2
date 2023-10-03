@@ -9,4 +9,5 @@
   +Filetered data
   ---
   +Cleaned data
-  - red 
+  - red
+  - <span style="color:red;">This text is red.</span>
