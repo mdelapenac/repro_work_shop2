@@ -11,4 +11,4 @@
   +Cleaned data
   - red
   - <span style="color:red;">This text is red.</span>
-  <font color="red">This text is red.</font>
+  -<font color="red">This text is red.</font>
